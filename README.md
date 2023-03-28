@@ -1,9 +1,8 @@
-Olá, desenvolvedor Front-end/Back-end.
-Possuo o conhecimento em HTML,CSS,JAVASCRIPT,PHP,AJAX,SQL,JSON,XML,JQUERY e BOOTSTRAP.
-<!--
-**Italo-990/Italo-990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá,
 
-Here are some ideas to get you started:
+
+<!--
+**Italo-990/Italo-990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub p
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
